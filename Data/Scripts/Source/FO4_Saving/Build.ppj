@@ -7,12 +7,12 @@
 		Output="..\..\"
 		Asm="Discard"
 		Optimize="false"
-		Release="true"
-		Final="true"
+		Release="false"
+		Final="false"
 	>
 	<Imports>
 		<Import>.</Import>
-		<Import>..\Scripting</Import>
+		<Import>..\FO4_Scripting</Import>
 		<Import>..\Base</Import>
 	</Imports>
 	<Folders>
