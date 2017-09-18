@@ -1,6 +1,6 @@
 Scriptname Fallout:Saving:SaveBed extends Papyrus:Project:Modules:Optional
 import Fallout
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 UserLog Log
 

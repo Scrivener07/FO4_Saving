@@ -1,5 +1,5 @@
 Scriptname Fallout:Saving:System extends Papyrus:Project:Modules:Required
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 UserLog Log
 
